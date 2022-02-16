@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+
+.AuthPageCSS {
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 5%;
+}
+
+.buttons {
+    text-align: center;
+    padding: 1%;
+  }
+
+  .table {
+    padding-left: 1%;
+    padding-right: 1%;
+  }
